@@ -1,0 +1,8 @@
+{
+  "articles": [
+    {
+      "id": "nextID",
+      "nextID": 20
+    }
+  ]
+}
